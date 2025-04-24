@@ -17,10 +17,8 @@ A Laravel-based web application that allows users to download TikTok videos — 
 
 ## 📸 Screenshot
 
-> You can include a screenshot here for better visual reference.
->  
-> Example:  
-> ![Preview Screenshot](public/assets/preview.png)
+![image](https://github.com/user-attachments/assets/2b6ecda9-0ce3-4bbd-bb0b-c65e736f0660)
+
 
 ---
 
